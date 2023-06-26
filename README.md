@@ -16,10 +16,10 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 
 ## 📫 How to reach me:
 <a href="mailto:selena.aura@outlook.com">Gmail</a><br>
-<a href="https://drive.google.com/file/d/1d_LQMRw8Ejn6Vm3wmKzGVZIgAK3eNu5Z/view?usp=sharing">Instagram</a><br>
+<a href="www.instagram.com/selenaura">Instagram</a><br>
 <a href="https://www.twitter.com/fullsunstealer">Twitter</a><br>
 <a href="https://wa.me/6282234747191">WhatsApp</a>
-
+Or <a href="https://drive.google.com/file/d/1d_LQMRw8Ejn6Vm3wmKzGVZIgAK3eNu5Z/view?usp=sharing">here</a> to download my resume.<br>
 <!--
 **auraselena/auraselena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
