@@ -13,8 +13,7 @@ To slideshow through my projects portfolio, click <a href="https://drive.google.
 I'm a Bachelor of Mathematics from Brawijaya University. My interest in technology grew since I was in my 4th year of college. After graduating, I pursued the web-dev skills by myself through YouTube channels, and joining a bootcamp program in Purwadhika Digital Technology School.
 
 
-Feel free to explore the repositories and projects listed here, and don't hesitate to reach out if you have any questions or collaboration opportunities! I'm excited to connect with fellow developers and learn from the community.
-
+Feel free to explore the repositories and projects listed here, and don't hesitate to reach out if you have any questions or collaboration opportunities! I'm excited to connect with fellow developers and learn from the community.<br><br>
 
 ## 📫 How to reach me:
 <a href="www.instagram.com/selenaura">Instagram</a><br>
