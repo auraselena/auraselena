@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Selena Aura, and I'm passionate about web development. This GitHub profile serves as overview of my projects, track of my works and contributions.<br>
+Welcome to my GitHub profile!<br>
+I'm ✨ _Selena Aura_ ✨, a full-stack developer based in Bandung, Indonesia. This GitHub profile serves as overview of my projects, track of my works and contributions.<br>
 🔭 I’m currently not working yet.<br>
-🌱 I’m currently delve into full-stack development using JavaScript, React, and Express.js.<br>
+🌱 I currently delve into full-stack development using JavaScript, React, and Express.js.<br>
 In the future, I hope I can expand my skills to be a mobile developer using React Native or Kotlin, or Flutter. Wish me luck on my learning journey!
 
 ## About Me
