@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
-Welcome to my GitHub profile! I'm Selena Aura, and I'm passionate about web development. This GitHub profile serves as an overview of my work, projects, and contributions.
-🔭 I’m currently not working yet.
-🌱 I’m currently delve into full-stack development using JavaScript, React, and Express.js.
-In the future, I hope I can expand my skills to be a mobile developer. Wish me luck!
+Welcome to my GitHub profile! I'm Selena Aura, and I'm passionate about web development. This GitHub profile serves as overview of my projects, track of my works and contributions.<br>
+🔭 I’m currently not working yet.<br>
+🌱 I’m currently delve into full-stack development using JavaScript, React, and Express.js.<br>
+In the future, I hope I can expand my skills to be a mobile developer using React Native or Kotlin, or Flutter. Wish me luck on my learning journey!
 
 ## About Me
 
@@ -14,9 +14,9 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 
 
 ## 📫 How to reach me:
-<a href="mailto:selena.aura@outlook.com">Gmail</a>
-<a href="https://drive.google.com/file/d/1d_LQMRw8Ejn6Vm3wmKzGVZIgAK3eNu5Z/view?usp=sharing">Instagram</a>
-<a href="https://www.twitter.com/fullsunstealer">Twitter</a>
+<a href="mailto:selena.aura@outlook.com">Gmail</a><br>
+<a href="https://drive.google.com/file/d/1d_LQMRw8Ejn6Vm3wmKzGVZIgAK3eNu5Z/view?usp=sharing">Instagram</a><br>
+<a href="https://www.twitter.com/fullsunstealer">Twitter</a><br>
 <a href="https://wa.me/6282234747191">WhatsApp</a>
 
 <!--
