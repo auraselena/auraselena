@@ -6,7 +6,7 @@ I'm ✨Selena Aura✨, a full-stack developer based in Bandung, Indonesia. This 
 🌱 I currently delve into full-stack development using JavaScript, React, and Express.js.<br>
 In the next two years, I hope I can expand my skills to be a mobile developer using React Native or Kotlin, or Flutter. Wish me luck on my learning journey!
 
-To slideshow through my projects portfolio, click <a href="https://drive.google.com/file/d/1z1ktrOD5kdSRKRx7aZmbr0t4m0yAmAdY/view?usp=sharing">here</a><br><br>
+To slideshow through my projects portfolio, click 👉🏻<a href="https://drive.google.com/file/d/1z1ktrOD5kdSRKRx7aZmbr0t4m0yAmAdY/view?usp=sharing">here</a>👈🏻<br><br>
 
 ## About Me
 
