@@ -2,11 +2,10 @@
 
 Welcome to my GitHub profile!<br><br>
 I'm ✨Selena Aura✨, a full-stack developer based in Bandung, Indonesia. This GitHub profile serves as overview of my projects, track of my works and contributions.<br>
-🔭 I’m currently not working yet.<br>
 🌱 I currently delve into full-stack development using JavaScript, React, and Express.js.<br>
-In the next two years, I hope I can expand my skills to be a mobile developer using React Native or Kotlin, or Flutter. Wish me luck on my learning journey!
+In the next two years, I hope I can deepen my webdev skills, and learn mobile development after. Wish me luck on my learning journey!
 
-To slideshow through my projects portfolio, click 👉🏻<a href="https://drive.google.com/file/d/1z1ktrOD5kdSRKRx7aZmbr0t4m0yAmAdY/view?usp=sharing">here</a>👈🏻<br><br>
+To slideshow through my projects portfolio, click 👉🏻<a href="https://drive.google.com/file/d/1gNl8Caq7C15x5JU1FbTIgrhvzb5kjUAl/view?usp=sharing">here</a>👈🏻<br><br>
 
 ## About Me
 
@@ -19,7 +18,7 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 <a href="www.instagram.com/selenaura">Instagram</a><br>
 <a href="https://www.twitter.com/fullsunstealer">Twitter</a><br>
 <a href="https://wa.me/6282234747191">WhatsApp</a><br>
-Or click <a href="https://drive.google.com/file/d/1d_LQMRw8Ejn6Vm3wmKzGVZIgAK3eNu5Z/view?usp=sharing">here</a> to download my resume.
+Or click <a href="https://drive.google.com/file/d/1J18sg8gM-iIbbqlFcV49efGE1I7jjxl7/view?usp=sharing">here</a> to download my resume.
 <!--
 **auraselena/auraselena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
