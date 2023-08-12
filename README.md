@@ -7,11 +7,6 @@ In the next two years, I hope I can deepen my webdev skills, and learn mobile de
 
 To slideshow through my projects portfolio, click 👉🏻<a href="https://drive.google.com/file/d/1gNl8Caq7C15x5JU1FbTIgrhvzb5kjUAl/view?usp=sharing">here</a>👈🏻<br><br>
 
-## About Me
-
-I'm a Bachelor of Mathematics from Brawijaya University. My interest in technology grew since I was in my 4th year of college. After graduating, I pursued the web-dev skills by myself through YouTube channels, and joining a bootcamp program in Purwadhika Digital Technology School.
-
-
 Feel free to explore the repositories and projects listed here, and don't hesitate to reach out if you have any questions or collaboration opportunities! I'm excited to connect with fellow developers and learn from the community.<br><br>
 
 ## 📫 How to reach me:
@@ -19,6 +14,8 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 <a href="https://www.twitter.com/fullsunstealer">Twitter</a><br>
 <a href="https://wa.me/6282234747191">WhatsApp</a><br>
 Or click <a href="https://drive.google.com/file/d/1J18sg8gM-iIbbqlFcV49efGE1I7jjxl7/view?usp=sharing">here</a> to download my resume.
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/auraselena)
 <!--
 **auraselena/auraselena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
