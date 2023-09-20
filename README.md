@@ -5,7 +5,7 @@ I'm ✨Selena Aura✨, a full-stack developer based in Bandung, Indonesia. This 
 🌱 I currently delve into full-stack development using JavaScript, React, and Express.js.<br>
 In the next two years, I hope I can deepen my webdev skills, and learn mobile development after. Wish me luck on my learning journey!
 
-To slideshow through my projects portfolio, click 👉🏻<a href="https://drive.google.com/file/d/1gNl8Caq7C15x5JU1FbTIgrhvzb5kjUAl/view?usp=sharing">here</a>👈🏻<br><br>
+To slideshow through my projects portfolio, click 👉🏻<a href="https://drive.google.com/file/d/1YK-zbX6gtc3H_wbn6NY9V2vy4aZ9FZiY/view?usp=sharing">here</a>👈🏻<br><br>
 
 Feel free to explore the repositories and projects listed here, and don't hesitate to reach out if you have any questions or collaboration opportunities! I'm excited to connect with fellow developers and learn from the community.<br><br>
 
@@ -13,9 +13,8 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 <a href="www.instagram.com/selenaura">Instagram</a><br>
 <a href="https://www.twitter.com/fullsunstealer">Twitter</a><br>
 <a href="https://wa.me/6282234747191">WhatsApp</a><br>
-Or click <a href="https://drive.google.com/file/d/1J18sg8gM-iIbbqlFcV49efGE1I7jjxl7/view?usp=sharing">here</a> to download my resume.
+Or click <a href="https://drive.google.com/file/d/1NxTjVB8jEezZN_NuT-hHaKJAIN8GqoM-/view?usp=sharing">here</a> to download my resume.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/auraselena)
 <!--
 **auraselena/auraselena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
