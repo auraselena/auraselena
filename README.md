@@ -15,7 +15,7 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 <a href="https://www.twitter.com/fullsunstealer">Twitter</a><br>
 -->
 <a href="https://wa.me/6282234747191">WhatsApp</a><br>
-Or click <a href="[https://drive.google.com/file/d/1NxTjVB8jEezZN_NuT-hHaKJAIN8GqoM-/view?usp=sharing](https://drive.google.com/file/d/18VGI6cOTdKktmzS7p-mJx2WyGa0WJzs2/view)">here</a> to download my resume.
+Or click <a href="https://drive.google.com/file/d/1NxTjVB8jEezZN_NuT-hHaKJAIN8GqoM-/view?usp=sharing](https://drive.google.com/file/d/18VGI6cOTdKktmzS7p-mJx2WyGa0WJzs2/view">here</a> to download my resume.
 
 <br>
 <br>
