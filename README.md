@@ -11,7 +11,6 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 ## 📫 Reach me on:
 <a href="https://www.linkedin.com/in/selenaura">LinkedIn</a><br>
 <a href="https://www.instagram.com/selenaura">Instagram</a><br>
-<a href="https://wa.me/6282234747191">WhatsApp</a><br>
 Or click <a href="https://drive.google.com/file/d/1NxTjVB8jEezZN_NuT-hHaKJAIN8GqoM-/view?usp=sharing">here</a> to download my resume.
 
 <br>
