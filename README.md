@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my GitHub profile!<br>
-I'm ✨Selena Aura✨, a full-stack web developer turned designer.
+I'm ✨Selena Aura✨
 
 To slideshow through my projects portfolio, click 👉🏻 <a href="https://auraselena.com">here</a> 👈🏻<br>
 
