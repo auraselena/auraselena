@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 Welcome to my GitHub profile!<br>
-I'm ✨Selena Aura✨, a full-stack web developer turned designer. This GitHub profile serves as overview of my projects, track of my works and contributions.<br>
-🌱
+I'm ✨Selena Aura✨, a full-stack web developer turned designer.
 
 To slideshow through my projects portfolio, click 👉🏻 <a href="https://auraselena.com">here</a> 👈🏻<br>
 
@@ -11,7 +10,7 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 ## 📫 Reach me on:
 <a href="https://www.linkedin.com/in/selenaura">LinkedIn</a><br>
 <a href="https://www.instagram.com/selenaura">Instagram</a><br>
-Or click <a href="https://drive.google.com/file/d/1NxTjVB8jEezZN_NuT-hHaKJAIN8GqoM-/view?usp=sharing">here</a> to download my resume.
+Or click <a href="https://drive.google.com/file/d/1gAa2doUoJi239zP67frxziwNcmlFgrWy/view?usp=sharing">here</a> to download my resume.
 
 <br>
 <br>
