@@ -3,14 +3,14 @@
 Welcome to my GitHub profile!<br>
 I'm ✨Selena Aura✨
 
-To slideshow through my projects portfolio, click 👉🏻 <a href="https://auraselena.framer.website">here</a> 👈🏻<br>
+To slideshow through my projects portfolio, click 👉🏻 <a href="https://auraselena.com">here</a> 👈🏻<br>
 
 Feel free to explore the repositories and projects listed here, and don't hesitate to reach out if you have any questions or collaboration opportunities! I'm excited to connect with fellow developers and learn from the community.<br>
 
 ## 📫 Reach me on:
 <a href="https://www.linkedin.com/in/auraselena">LinkedIn</a><br>
 <a href="https://www.instagram.com/selenaura">Instagram</a><br>
-Or click <a href="https://drive.google.com/file/d/1MoRxsbnqGD8nn_njJfOllWEc2M7Mgbml/view?usp=sharing">here</a> to download my resume.
+Or click <a href="https://drive.google.com/file/d/1TuC--ChGQgXNwcfvXjEykStCdKO4f6IJ/view?usp=sharing">here</a> to download my resume.
 
 <br>
 <br>
