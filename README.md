@@ -10,7 +10,7 @@ Feel free to explore the repositories and projects listed here, and don't hesita
 ## 📫 Reach me on:
 <a href="https://www.linkedin.com/in/auraselena">LinkedIn</a><br>
 <a href="https://www.instagram.com/selenaura">Instagram</a><br>
-Or click <a href="https://drive.google.com/file/d/1vFq0hIY5EXJ040fDKmeA33DfophGPGsz/view?usp=sharing">here</a> to download my resume.
+Or click <a href="https://drive.google.com/file/d/1Gz1h6GSnJUEz-xZh3LPWT6jJt8wOFIMN/view?usp=drive_link">here</a> to download my resume.
 
 <br>
 <br>
